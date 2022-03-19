@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignUpScreen</string>
+    <string name="signin"><u>Sign In</u></string>
+</resources>
